@@ -1,4 +1,4 @@
-#SystemMonitor 🖥️
+##SystemMonitor 🖥️
 
 A powerful desktop monitoring app, created overnight over a coffee mug using Python and Tkinter.
 
